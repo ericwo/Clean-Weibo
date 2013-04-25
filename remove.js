@@ -22,4 +22,7 @@
 
 	var content_8 = document.getElementById("trustPagelet_checkin_lotteryv5");
 	content_8.style.display = "none";
+
+	var content_9 = document.getElementById("pl_rightmod_ads36");
+	content_9.style.display = "none";
 })();
